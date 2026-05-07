@@ -20,9 +20,9 @@
 customer-app/
 ├── app.py # Streamlit web app
 ├── customer_shopping_behavior.csv # Raw data (3900+ transactions)
-├── dashboard.pbix # Power BI file
-├── dashboard.pdf # Exported dashboard
-└── sql-queries.sql # Business analysis queries
+├──customer_behavior_dashboard.pbix # Power BI file
+├── customer_behavior_dashboard.pdf # Exported dashboard
+└── customer_shopping_behavior_queries.sql # Business analysis queries
 
 
 ## 📞 Connect with me
