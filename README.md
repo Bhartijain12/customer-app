@@ -18,11 +18,11 @@
 
 ## 📁 Project Structure
 customer-app/
-├── app.py # Streamlit web app
-├── customer_shopping_behavior.csv # Raw data (3900+ transactions)
-├──customer_behavior_dashboard.pbix # Power BI file
-├── customer_behavior_dashboard.pdf # Exported dashboard
-└── customer_shopping_behavior_queries.sql # Business analysis queries
+├── `app.py` # Streamlit web app
+├── `customer_shopping_behavior.csv` # Raw data (3900+ transactions)
+├──`customer_behavior_dashboard.pbix` # Power BI file
+├── `customer_behavior_dashboard.pdf `# Exported dashboard
+└── `customer_shopping_behavior_queries.sql` # Business analysis queries
 
 
 ## 📞 Connect with me
